@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Allan Ferreira
+# 👋 Olá, eu sou Allan Oliveira
 
 ## 💻 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unopar, em fase de construção da minha base técnica na área de tecnologia.
