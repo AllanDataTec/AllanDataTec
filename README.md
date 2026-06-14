@@ -3,7 +3,7 @@
 ## 💻 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unopar, em fase de construção da minha base técnica na área de tecnologia.
 
-Tenho interesse em atuar nas áreas de **DevOps Trainee** e **Análise de Dados**, buscando desenvolver habilidades práticas em infraestrutura, automação e manipulação de dados, alinhando estudos acadêmicos com experiência profissional.
+Tenho interesse em atuar nas áreas de **DevOps Trainee**, **DEV Treinee**, **Análise de Dados**, **QA Analyst** e **Product Manager**, buscando desenvolver habilidades práticas em infraestrutura, automação e manipulação de dados, alinhando estudos acadêmicos com experiência profissional.
 
 ---
 
@@ -13,7 +13,8 @@ Tenho interesse em atuar nas áreas de **DevOps Trainee** e **Análise de Dados*
 - SQL  
 - Linux (terminal e comandos básicos)  
 - VS Code  
-- Fundamentos da graduação em ADS  
+- Fundamentos da graduação em ADS
+- Desenvolvimento WEB 
 
 ---
 
